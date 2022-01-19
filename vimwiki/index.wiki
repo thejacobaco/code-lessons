@@ -1,0 +1,7 @@
+= Code Lessons! =
+
+== Segment 1 ==
+- [[Lesson 1]]
+- [[Exercise 1]]
+
+== Segment 2 ==

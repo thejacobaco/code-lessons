@@ -1,0 +1,28 @@
+= Hello World =
+
+Hello world is a ubiqitous first program programmers often write to test out a new idea or when trying a new language.
+
+The idea of hello world is actually quite useful and the idea is to simplify a problem as much as possible so you can have a starting point that works. For example if you have some large complicated code, you might do some small isolated hello-world type test where you rip out only the problematic code and wrench on that.
+
+Since you are embarking on a code learning adventure it's only proper to begin with a hello world program.
+
+For this course we'll use Python since its popular and used widely
+
+= Code =
+
+_hello-world.py_
+{{{
+print("Hello world!");
+}}}
+
+_output_
+
+{{{
+Hello world!
+}}}
+
+= Your Turn =
+
+Using Vim or Atom, write your hello-world.py file and add as many print statements as you want, you can use the above example as a guideline.
+
+To run a python script, using Python 3, open a terminal and navigate to your file and then run `python3 hello-world.py`
